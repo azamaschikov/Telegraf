@@ -1,3 +1,1 @@
-How to start monitoring with TIG-stack.
-
-
+See wiki-page for how to setup Telegraf, InfluxDB and Grafana in Docker.
